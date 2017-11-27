@@ -1,0 +1,6 @@
+c:\users\parkjoosung\documents\visual studio 2012\Projects\kakao\kakao\bin\Debug\kakao.exe.config
+c:\users\parkjoosung\documents\visual studio 2012\Projects\kakao\kakao\bin\Debug\kakao.exe
+c:\users\parkjoosung\documents\visual studio 2012\Projects\kakao\kakao\bin\Debug\kakao.pdb
+c:\users\parkjoosung\documents\visual studio 2012\Projects\kakao\kakao\obj\Debug\kakao.csprojResolveAssemblyReference.cache
+c:\users\parkjoosung\documents\visual studio 2012\Projects\kakao\kakao\obj\Debug\kakao.exe
+c:\users\parkjoosung\documents\visual studio 2012\Projects\kakao\kakao\obj\Debug\kakao.pdb
